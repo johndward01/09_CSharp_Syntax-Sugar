@@ -1,0 +1,13 @@
+C:\Users\johnd\Desktop\T_Repo\09_C#_Syntax_Sugar\Syntax_Sugar_Demo\Syntax_Sugar_Demo\bin\Debug\netcoreapp3.1\Syntax_Sugar_Demo.exe
+C:\Users\johnd\Desktop\T_Repo\09_C#_Syntax_Sugar\Syntax_Sugar_Demo\Syntax_Sugar_Demo\bin\Debug\netcoreapp3.1\Syntax_Sugar_Demo.deps.json
+C:\Users\johnd\Desktop\T_Repo\09_C#_Syntax_Sugar\Syntax_Sugar_Demo\Syntax_Sugar_Demo\bin\Debug\netcoreapp3.1\Syntax_Sugar_Demo.runtimeconfig.json
+C:\Users\johnd\Desktop\T_Repo\09_C#_Syntax_Sugar\Syntax_Sugar_Demo\Syntax_Sugar_Demo\bin\Debug\netcoreapp3.1\Syntax_Sugar_Demo.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\T_Repo\09_C#_Syntax_Sugar\Syntax_Sugar_Demo\Syntax_Sugar_Demo\bin\Debug\netcoreapp3.1\Syntax_Sugar_Demo.dll
+C:\Users\johnd\Desktop\T_Repo\09_C#_Syntax_Sugar\Syntax_Sugar_Demo\Syntax_Sugar_Demo\bin\Debug\netcoreapp3.1\Syntax_Sugar_Demo.pdb
+C:\Users\johnd\Desktop\T_Repo\09_C#_Syntax_Sugar\Syntax_Sugar_Demo\Syntax_Sugar_Demo\obj\Debug\netcoreapp3.1\Syntax_Sugar_Demo.csprojAssemblyReference.cache
+C:\Users\johnd\Desktop\T_Repo\09_C#_Syntax_Sugar\Syntax_Sugar_Demo\Syntax_Sugar_Demo\obj\Debug\netcoreapp3.1\Syntax_Sugar_Demo.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\T_Repo\09_C#_Syntax_Sugar\Syntax_Sugar_Demo\Syntax_Sugar_Demo\obj\Debug\netcoreapp3.1\Syntax_Sugar_Demo.AssemblyInfo.cs
+C:\Users\johnd\Desktop\T_Repo\09_C#_Syntax_Sugar\Syntax_Sugar_Demo\Syntax_Sugar_Demo\obj\Debug\netcoreapp3.1\Syntax_Sugar_Demo.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\T_Repo\09_C#_Syntax_Sugar\Syntax_Sugar_Demo\Syntax_Sugar_Demo\obj\Debug\netcoreapp3.1\Syntax_Sugar_Demo.dll
+C:\Users\johnd\Desktop\T_Repo\09_C#_Syntax_Sugar\Syntax_Sugar_Demo\Syntax_Sugar_Demo\obj\Debug\netcoreapp3.1\Syntax_Sugar_Demo.pdb
+C:\Users\johnd\Desktop\T_Repo\09_C#_Syntax_Sugar\Syntax_Sugar_Demo\Syntax_Sugar_Demo\obj\Debug\netcoreapp3.1\Syntax_Sugar_Demo.genruntimeconfig.cache
